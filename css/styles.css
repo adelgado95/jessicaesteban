@@ -11449,6 +11449,12 @@ section#contact form#contactForm :-ms-input-placeholder {
 .countdown div span{
   font-size: 1.3rem;
 }
+.faltan {
+  font-size: 2em;
+  font-family: GildaDisplay;
+  font-weight:500;
+}
+
 
 @media (max-width: 768px) {
   .countdown p{
@@ -11461,6 +11467,9 @@ section#contact form#contactForm :-ms-input-placeholder {
     font-size: 2rem;
     font-weight: 500;
     /* background-color: #FFA07A; */
+  }
+  .faltan {
+    font-size:1.3rem;
   }
   .boda-title {
     font-size: 1em;
@@ -11480,3 +11489,4 @@ section#contact form#contactForm :-ms-input-placeholder {
   margin-bottom: 2em;
 
 }
+
